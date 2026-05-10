@@ -1,2 +1,1 @@
-# NNiSPT_ALL
-Glab-Tappus Weppel
+# NNiSPT_lab2
