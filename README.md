@@ -1,2 +1,2 @@
 # NNiSPT_ALL
-Glab-Tappus Weppel
+Neural networks in solving practical problems
